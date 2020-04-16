@@ -1,8 +1,5 @@
 # Plugins
 
-Please note, that some of the files or directories in this location belong to Handsontable Pro thus are licensed commercially.
-See the table below for details.
-
 | Name                    	| Localization                    	|
 |--------------------------	|---------------------------------	|
 | Bind rows with headers   	| /src/plugins/bindRowsWithHeaders 	|

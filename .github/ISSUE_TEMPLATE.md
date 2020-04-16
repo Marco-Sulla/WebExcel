@@ -9,10 +9,10 @@
 
 ### Demo
 <!--- Provide a link to a live example on JSFiddle or Codepen or fill the following demo with your settings -->
-https://jsfiddle.net/handsoncode/8ffpsqt6/
+https://jsfiddle.net/
 
 ### Your environment
-* Handsontable version:
+* WebExcel version:
 * Browser Name and version:
 * Operating System:
 

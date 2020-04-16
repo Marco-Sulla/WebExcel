@@ -1,13 +1,13 @@
 {
-  "name": "handsontable",
-  "description": "Handsontable is a JavaScript Spreadsheet Component available for React, Angular and Vue.",
-  "homepage": "https://handsontable.com/",
+  "name": "webexcel",
+  "description": "WebExcel is a JavaScript Spreadsheet Component available for React, Angular and Vue.",
+  "homepage": "https://github.com/Marco-Sulla/WebExcel/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/handsontable/handsontable.git"
+    "url": "https://github.com/Marco-Sulla/WebExcel.git"
   },
   "bugs": {
-    "url": "https://github.com/handsontable/handsontable/issues"
+    "url": "https://github.com/Marco-Sulla/WebExcel/issues"
   },
   "author": "Handsoncode <hello@handsontable.com>",
   "version": "*** AUTOFILLED ***",
